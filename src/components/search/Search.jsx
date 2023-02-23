@@ -12,7 +12,7 @@ const Search = () => {
           alt=""
         />
         <div className="user-chat_info">
-          <span>Miranda</span>
+          <span>Miranda Cohen</span>
         </div>
       </div>
     </div>
